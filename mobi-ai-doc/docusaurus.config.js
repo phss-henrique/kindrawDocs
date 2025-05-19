@@ -129,7 +129,7 @@ const config = {
         isCloseable: true,
       },
 
-      // Navbar configuration
+      // Navbar
       navbar: {
         hideOnScroll: true,
         logo: {
@@ -168,12 +168,6 @@ const config = {
           {
             type: 'localeDropdown',
             position: 'right',
-          },
-          {
-            href: "https://github.com/leotaborda/mobi-ai",
-            position: "right",
-            className: "header-github-link",
-            "aria-label": "GitHub repository",
           },
         ],
       },
@@ -240,7 +234,7 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-        additionalLanguages: ['python', 'csharp', 'java'],
+        additionalLanguages: ['python'],
       },
       
       metadata: [
