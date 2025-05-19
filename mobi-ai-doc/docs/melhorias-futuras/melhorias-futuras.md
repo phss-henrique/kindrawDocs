@@ -8,13 +8,13 @@ description: Propostas de aprimoramento e expansão do projeto MOBI AI após a e
 
 > Esta seção apresenta sugestões de evolução do projeto MOBI AI, com base em testes, feedbacks e análises internas realizadas durante o desenvolvimento.
 
-## 🚀 Visão Estratégica
+## Visão Estratégica
 
 Com o MVP validado e os principais módulos implementados, identificamos oportunidades claras de evolução para aumentar a eficiência, escalabilidade e impacto do projeto.
 
 ---
 
-## 🔄 Propostas de Melhorias Técnicas
+## Propostas de Melhorias Técnicas
 
 | Área                        | Proposta                                                  | Impacto Esperado                      |
 |-----------------------------|-----------------------------------------------------------|----------------------------------------|
@@ -26,7 +26,7 @@ Com o MVP validado e os principais módulos implementados, identificamos oportun
 
 ---
 
-## 🧩 Funcionalidades Futuras
+## Funcionalidades Futuras
 
 - 🔍 Filtro de palavras-chave e temas para personalização dos relatórios
 - 📊 Dashboard em tempo real com dados de mercado
@@ -36,7 +36,7 @@ Com o MVP validado e os principais módulos implementados, identificamos oportun
 
 ---
 
-## 📈 Evolução Contínua
+## Evolução Contínua
 
 A arquitetura modular do MOBI AI foi pensada para facilitar a adição de novas funcionalidades sem comprometer a estabilidade do sistema já entregue.
 
