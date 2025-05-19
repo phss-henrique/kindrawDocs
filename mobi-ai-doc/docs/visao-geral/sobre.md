@@ -42,4 +42,3 @@ O sistema é dividido em cinco módulos principais:
 
 ---
 
-> O MOBI AI não apenas resolve um problema técnico, mas reposiciona a Bosch como referência em inovação aplicada à inteligência de mercado no setor automotivo.
