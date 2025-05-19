@@ -38,8 +38,8 @@ const config = {
           sidebarPath: "./sidebars.js",
           // Edit this page links
           editUrl: "https://github.com/bosch/mobi-ai-doc/tree/main/",
-          showLastUpdateTime: true,
-          showLastUpdateAuthor: true,
+          showLastUpdateTime: false,
+          showLastUpdateAuthor: false,
         },
         blog: {
           showReadingTime: true,
