@@ -8,13 +8,13 @@ description: Linha do tempo detalhada do desenvolvimento do projeto MOBI AI, com
 
 > Esta seção apresenta o planejamento e a linha do tempo do projeto MOBI AI, com foco em marcos de entrega, organização por sprints e evolução mensal das atividades.
 
-## 🧭 Visão Geral
+## Visão Geral
 
-O desenvolvimento do MOBI AI foi conduzido em formato incremental, dividido por meses e semanas. Abaixo, o detalhamento cronológico com as principais atividades realizadas.
+O desenvolvimento do MOBI AI foi conduzido em formato incremental, dividido por meses, semanas e sprint's. Abaixo, o detalhamento cronológico com as principais atividades realizadas.
 
 ---
 
-## 🗓️ Cronograma Mensal
+## Cronograma Mensal
 
 | Mês       | Entregas e Atividades-Chave                                                                 |
 |------------|---------------------------------------------------------------------------------------------|
@@ -27,34 +27,25 @@ O desenvolvimento do MOBI AI foi conduzido em formato incremental, dividido por 
 
 ---
 
-## 🧩 Organização por Sprint (Resumo Semanal)
+## Organização Semanal (Resumo)
 
 | Semana      | Principais Atividades                                                                      |
 |-------------|---------------------------------------------------------------------------------------------|
-| **Semana 1** (Jan) | Brainstorming, primeira reunião oficial, definição de escopo                          |
-| **Semana 2** (Fev) | Estudos iniciais de Azure e OpenAI, testes com APIs de notícias                       |
-| **Semana 3** (Mar) | Automação do PowerPoint, integração inicial da NewsAPI, primeiras pesquisas com UX   |
-| **Semana 4** (Abr) | Prototipação de telas, implementação parcial da IA de extração e carta de e-mail     |
+| **Semanas** (Jan) | Brainstorming, primeira reunião oficial, definição de escopo                          |
+| **Semanas** (Fev) | Estudos iniciais de Azure e OpenAI, testes com APIs de notícias                       |
+| **Semanas** (Mar) | Automação do PowerPoint, integração inicial da NewsAPI, primeiras pesquisas com UX   |
+| **Semana** (Abr) | Prototipação de telas, implementação parcial da IA de extração e carta de e-mail     |
 | **Semana 1** (Mai) | Geração do MVP completo, testes de fluxo, ajustes na extração                         |
 | **Semana 3** (Mai) | Estudo de documentação no Docusaurus, melhoria da carta de newsletter                 |
-| **Semana 4** (Jun) | Revisão de conteúdo, gravação do vídeo final, entrega oficial à área parceira         |
+| **Semanas** (Jun) | Revisão de conteúdo, gravação do vídeo final, entrega oficial à área parceira         |
 
 ---
 
-## 🔁 Metodologia de Trabalho
+## Metodologia de Trabalho
 
 O cronograma foi guiado por sprints semanais, com reuniões regulares de alinhamento, revisões de progresso e definições de próximos passos. O foco foi manter entregas iterativas e funcionais.
 
 > “Entregas rápidas, testes constantes e foco em valor” — esse foi o princípio que norteou nossa organização.
-
----
-
-## 📍 Marcos Importantes
-
-- ✅ Escolha do tema e escopo (Jan)
-- ✅ Primeiros testes com IA (Fev)
-- ✅ MVP funcional (Mai)
-- ✅ Documentação e entrega final (Jun)
 
 ---
 
