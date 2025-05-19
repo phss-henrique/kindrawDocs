@@ -10,51 +10,53 @@ description: Conjunto de tecnologias, frameworks e plataformas utilizados no des
 
 ---
 
-## 🧠 Inteligência Artificial e APIs
+## Inteligência Artificial e APIs
 
-| Tecnologia / API     | Uso Principal                                                         |
+| Tecnologia / API      | Uso Principal                                                        |
 |-----------------------|----------------------------------------------------------------------|
 | **OpenAI GPT-4**      | Geração de resumos, textos automáticos e suporte à linguagem natural |
 | **LangChain**         | Orquestração de prompts e controle de fluxo de IA                    |
-| **Azure Form Recognizer** | Extração de dados estruturados de arquivos PDF                    |
+| **Azure**             | Ter acesso a chave da API da OpenAI GPT-4o mini                      |
 | **NewsAPI**           | Coleta de notícias atualizadas com base em palavras-chave            |
 
 ---
 
-## 🖥️ Backend e Automação
+## Backend e Automação
 
-| Ferramenta / Linguagem | Uso Principal                                           |
+| Ferramenta / Linguagem  | Uso Principal                                          |
 |-------------------------|--------------------------------------------------------|
-| **Python 3.10**         | Linguagem base para scripts, automações e integração   |
+| **Python**              | Linguagem base para scripts, automações e integração   |
 | **Pandas**              | Manipulação e análise de dados                         |
 | **OpenPyXL**            | Criação e estilização de planilhas Excel               |
 | **python-pptx**         | Geração automática de slides em PowerPoint             |
-| **smtplib / Outlook API** | Envio automatizado de e-mails com newsletter         |
+| **PowerApps**           | Envio automatizado de e-mails com newsletter           |
 
 ---
 
-## 🎨 Frontend e UX/UI
+## Frontend e UX/UI
 
-| Ferramenta            | Função                                                  |
+| Ferramenta             | Função                                                   |
 |------------------------|----------------------------------------------------------|
 | **Figma**              | Prototipação e design de interface                       |
 | **HTML/CSS**           | Desenvolvimento visual da newsletter                     |
-| **Markdown / Docusaurus** | Documentação técnica e institucional                    |
+| **Markdown / Docusaurus** | Documentação técnica e institucional                  |
+| **Canva**              | Desenvolvimento Slides e Logo Marca do projeto           |
+| **AfterEffects**       | Video Pitch para apresentação                            |
 
 ---
 
-## 🧩 Organização e Colaboração
+## Organização e Colaboração
 
 | Plataforma             | Finalidade                                               |
 |------------------------|----------------------------------------------------------|
 | **Trello**             | Gestão de tarefas e organização das sprints              |
-| **Google Drive**       | Armazenamento e compartilhamento de arquivos             |
+| **One Drive**          | Armazenamento e compartilhamento de arquivos             |
 | **GitHub**             | Controle de versão do código-fonte                       |
-| **Meet / Teams**       | Reuniões de alinhamento e apresentações                  |
+| **Teams**              | Reuniões de alinhamento e apresentações                  |
 
 ---
 
-## 🖼️ Paleta de Cores
+## Paleta de Cores
 
 A identidade visual do MOBI AI foi baseada em dois pilares principais:
 
