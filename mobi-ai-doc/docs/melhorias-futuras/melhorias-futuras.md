@@ -19,9 +19,9 @@ Com o MVP validado e os principais módulos implementados, identificamos oportun
 | Área                        | Proposta                                                  | Impacto Esperado                      |
 |-----------------------------|-----------------------------------------------------------|----------------------------------------|
 | **IA de Extração**          | Adicionar validação semântica e autoaprendizado           | Aumento de precisão na coleta de dados |
-| **NewsAPI**                 | Integração com múltiplas fontes (fallback inteligente)    | Aumento da confiabilidade das notícias |
-| **Gerador de Slides**       | Suporte a gráficos interativos e exportação para PDF      | Melhoria na qualidade das apresentações |
-| **Newsletter**              | Monitoramento de engajamento e versão multilíngue         | Aumento da efetividade da comunicação  |
+| **NewsAPI**                 | Otimizar o código para aprimorar a eficiência na busca de informações | Aumento da confiabilidade das notícias |
+| **Gerador de Slides**       | Fornecer mais opções de templates para apresentações      | Melhoria na qualidade das apresentações |
+| **Newsletter**              | Menu interativo                                           | Aumento da efetividade da comunicação  |
 | **Banco de Dados**          | Criar repositório histórico de relatórios                 | Possibilita análises comparativas      |
 
 ---
@@ -30,14 +30,12 @@ Com o MVP validado e os principais módulos implementados, identificamos oportun
 
 - 🔍 Filtro de palavras-chave e temas para personalização dos relatórios
 - 📊 Dashboard em tempo real com dados de mercado
-- 🔗 Integração com plataformas de BI (Power BI, Tableau)
+- 🔗 Integração com plataformas de BI 
 - 📥 Portal interno para download de relatórios anteriores
-- 👥 Segmentação de conteúdo por perfil de usuário (analista, gestor, etc.)
+- 👥 IA de Notícias para todos os colaboradores Bosch
 
 ---
 
 ## Evolução Contínua
 
 A arquitetura modular do MOBI AI foi pensada para facilitar a adição de novas funcionalidades sem comprometer a estabilidade do sistema já entregue.
-
-> Com base nos resultados obtidos e no feedback da Bosch, o projeto tem potencial para se tornar uma ferramenta permanente no processo de inteligência de mercado da empresa.
