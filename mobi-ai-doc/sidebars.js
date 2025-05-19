@@ -47,6 +47,11 @@ const sidebars = {
       label: 'Tecnologias e Ferramentas',
     },
     {
+      type: 'doc',
+      id: 'problema-solucao/problema-solucao',
+      label: 'Problemática e Solução',
+    },
+    {
       type: 'category',
       label: 'Arquitetura',
       collapsed: false,
@@ -56,14 +61,6 @@ const sidebars = {
         'arquitetura/gerador-slides',
         'arquitetura/newsletter',
         'arquitetura/automacao-excel',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Problema e Solução',
-      collapsed: false,
-      items: [
-        'problema-solucao/problema-solucao',
       ],
     },
     {
