@@ -8,11 +8,11 @@ description: Visão detalhada da arquitetura da IA responsável por extrair dado
 
 > Esta seção detalha a arquitetura, funcionalidades e tecnologias utilizadas na solução de extração de dados para o MOBI AI.
 
-## 📌 Objetivo
+## Objetivo
 
 Automatizar a leitura e extração de dados estruturados a partir de relatórios do setor automotivo em formato PDF, substituindo processos manuais e suscetíveis a erro humano.
 
-## ⚙️ Como Funciona
+## Como Funciona
 
 O processo de extração automatizada é composto pelas seguintes etapas:
 
@@ -31,7 +31,7 @@ O processo de extração automatizada é composto pelas seguintes etapas:
 4. **Exportação para Excel**  
    Os dados processados são organizados em planilhas Excel, compatíveis com as próximas etapas do fluxo (como geração de slides e análise de mercado).
 
-## 🛠️ Tecnologias Empregadas
+## Tecnologias Empregadas
 
 | Tecnologia           | Função Principal                                |
 |----------------------|-------------------------------------------------|
@@ -40,14 +40,14 @@ O processo de extração automatizada é composto pelas seguintes etapas:
 | Pandas               | Manipulação e limpeza de dados estruturados     |
 | OpenPyXL             | Escrita de dados em planilhas Excel             |
 
-## 🎯 Benefícios para o Negócio
+## Benefícios para o Negócio
 
 - **Agilidade**: Redução de mais de 90% no tempo necessário para extrair informações dos relatórios.
 - **Precisão**: Eliminação de falhas comuns em tarefas manuais.
 - **Escalabilidade**: Facilidade para incorporar novos tipos de relatório ou campos com mínima intervenção.
 - **Confiabilidade**: Resultados consistentes, com controle de qualidade e padronização dos dados.
 
-## 🔍 Próximos Passos Técnicos
+## Próximos Passos Técnicos
 
 - Refinamento dos modelos para melhoria de acurácia
 - Implementação de verificação cruzada com fontes múltiplas
