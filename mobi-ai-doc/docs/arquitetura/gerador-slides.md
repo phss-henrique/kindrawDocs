@@ -8,11 +8,11 @@ description: Arquitetura do componente responsável pela geração automática d
 
 > Este módulo automatiza a criação de apresentações corporativas a partir dos dados extraídos e tratados pelo MOBI AI, garantindo agilidade, padronização visual e profissionalismo nas entregas.
 
-## 📌 Objetivo
+## Objetivo
 
 Converter os dados estruturados do relatório de mercado em uma apresentação visualmente coerente, seguindo o padrão da Bosch e otimizando o tempo de produção do MKR.
 
-## ⚙️ Como Funciona
+## Como Funciona
 
 O gerador de slides executa um processo em etapas, baseado em dados previamente organizados no Excel:
 
@@ -31,7 +31,7 @@ O gerador de slides executa um processo em etapas, baseado em dados previamente 
 4. **Estilização com Identidade Visual**  
    Aplica cores, fontes e layout compatíveis com o padrão corporativo definido (azul e verde: confiança e inovação).
 
-## 🛠️ Tecnologias Empregadas
+## Tecnologias Empregadas
 
 | Tecnologia       | Função Principal                                 |
 |------------------|--------------------------------------------------|
@@ -40,14 +40,14 @@ O gerador de slides executa um processo em etapas, baseado em dados previamente 
 | Matplotlib        | Geração de gráficos incorporados                 |
 | Identidade Visual | Aplicação de estilos e template padrão da Bosch  |
 
-## 🎯 Benefícios para o Negócio
+## Benefícios para o Negócio
 
 - **Economia de Tempo**: Automatiza uma tarefa que antes levava horas ou dias.
 - **Padronização**: Todos os relatórios seguem a mesma identidade visual e estrutura.
 - **Flexibilidade**: Permite alterações rápidas e regeneração automática de slides.
 - **Profissionalismo**: Resultados visuais prontos para reuniões executivas.
 
-## 🔍 Próximos Passos Técnicos
+## Próximos Passos Técnicos
 
 - Geração dinâmica de gráficos interativos
 - Suporte para exportação em PDF com metadados
