@@ -46,7 +46,7 @@ const config = {
             copyright: `© ${new Date().getFullYear()} MOBI AI - Todos os direitos reservados`,
             xslt: true,
           },
-          editUrl: "https://github.com/bosch/mobi-ai-doc/tree/main/",
+          editUrl: "https://github.com/leotaborda/mobi-ai-doc/tree/main/",
           // Enforce content best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -123,7 +123,7 @@ const config = {
       announcementBar: {
         id: 'support_project',
         content:
-          '⭐️ Se você gosta do projeto MOBI AI, dê uma estrela no nosso <a target="_blank" rel="noopener noreferrer" href="https://github.com/bosch/mobi-ai-doc">repositório GitHub</a>',
+          '⭐️ Se você gosta do projeto MOBI AI, dê uma estrela no nosso <a target="_blank" rel="noopener noreferrer" href="https://github.com/leotaborda/mobi-ai">repositório GitHub</a>',
         backgroundColor: '#00C2A2',
         textColor: '#0A2540',
         isCloseable: true,
@@ -219,7 +219,7 @@ const config = {
               },
               {
                 label: "GitHub do Projeto",
-                href: "https://github.com/bosch/mobi-ai-doc",
+                href: "https://github.com/leotaborda/mobi-ai",
               },
               {
                 label: "Política de Privacidade",
