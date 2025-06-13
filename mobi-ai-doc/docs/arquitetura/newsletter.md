@@ -18,8 +18,8 @@ O fluxo de envio segue uma estrutura baseada na finalização do relatório:
 
 1. **Geração do Conteúdo**  
    - Resumos de dados extraídos e notícias geradas por IA
-   - Links para download do relatório completo em PDF e PowerPoint
-   - Destaques visuais e tópicos principais (KPIs do mês)
+   - Links para download do relatório completo
+   - Destaques visuais e tópicos principais
 
 2. **Template Corporativo**  
    - Estilo visual padronizado com cores institucionais
@@ -27,7 +27,7 @@ O fluxo de envio segue uma estrutura baseada na finalização do relatório:
    - Layout responsivo (compatível com desktop e mobile)
 
 3. **Envio Automatizado**  
-   - Integração com plataformas de e-mail (ex: Outlook API ou SMTP)
+   - Integração com a plataforma Outlook
    - Lista de distribuição previamente configurada
    - Controle de envio com logs de sucesso/falha
 
@@ -38,7 +38,6 @@ O fluxo de envio segue uma estrutura baseada na finalização do relatório:
 | HTML + CSS       | Criação do corpo da newsletter                    |
 | Python (smtplib) | Automatização de envio de e-mails via SMTP       |
 | Jinja2           | Template dinâmico para e-mails personalizados     |
-| Outlook API      | Alternativa corporativa para envios internos     |
 
 ## Benefícios para o Negócio
 

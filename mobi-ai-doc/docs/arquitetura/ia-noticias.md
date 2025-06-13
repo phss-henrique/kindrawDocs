@@ -14,10 +14,10 @@ Automatizar a coleta, filtragem e resumo de notícias do setor automotivo, subst
 
 ## Como Funciona
 
-A IA de Notícias segue um pipeline bem definido, baseado em APIs de notícias, filtros semânticos e modelos de linguagem avançados:
+A IA de Notícias segue um pipeline bem definido, baseado em uma API de notícias, filtros semânticos e modelos de linguagem:
 
 1. **Coleta de Manchetes**  
-   Utiliza APIs como a NewsAPI para obter artigos recentes com base em palavras-chave (ex: "vendas", "produção", "setor automotivo").
+   Utiliza o NewsAPI para obter artigos recentes com base em palavras-chave (ex: "vendas", "produção", "setor automotivo").
 
 2. **Filtragem Semântica**  
    Aplicação de critérios de relevância:
@@ -26,10 +26,10 @@ A IA de Notícias segue um pipeline bem definido, baseado em APIs de notícias, 
    - Publicações do último mês
 
 3. **Sumarização com IA**  
-   Utiliza modelos GPT (OpenAI) via LangChain para transformar textos longos em resumos informativos e objetivos.
+   Utiliza modelos GPT (OpenAI) para transformar textos longos em resumos informativos e objetivos, e usado para a tradução das notícias.
 
 4. **Integração com o Relatório Final**  
-   Os resumos são organizados por temas e integrados automaticamente na seção de “Principais Notícias do Mês” do MKR.
+   Os resumos são organizados em sequência e integrados na seção de “Principais Notícias do Mês” após serem favoritados.
 
 ## Tecnologias Empregadas
 
@@ -37,7 +37,6 @@ A IA de Notícias segue um pipeline bem definido, baseado em APIs de notícias, 
 |-------------------|-------------------------------------------------|
 | NewsAPI           | Coleta de notícias em tempo real                |
 | OpenAI GPT-4      | Geração de resumos com linguagem natural        |
-| LangChain         | Orquestração de prompts e tratamento de contexto|
 | Python            | Automatização dos fluxos de integração          |
 
 ## Benefícios para o Negócio
@@ -45,7 +44,7 @@ A IA de Notícias segue um pipeline bem definido, baseado em APIs de notícias, 
 - **Eficiência**: Redução significativa no tempo de coleta e leitura de notícias.
 - **Atualização**: Informações sempre atualizadas com base em fontes públicas e confiáveis.
 - **Consistência**: Padrão de linguagem unificado nos resumos.
-- **Relevância**: Foco em notícias com impacto direto no mercado de mobilidade e automóveis.
+- **Relevância**: Foco em notícias com impacto direto no mercado.
 
 ## Próximos Passos Técnicos
 

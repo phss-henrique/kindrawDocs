@@ -221,10 +221,6 @@ const config = {
                 label: "GitHub do Projeto",
                 href: "https://github.com/leotaborda/mobi-ai",
               },
-              {
-                label: "Política de Privacidade",
-                to: "/politica-privacidade",
-              },
             ],
           },
         ],

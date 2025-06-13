@@ -19,23 +19,17 @@ A automatização do Excel se dá por meio de scripts que manipulam os dados ext
 ### Etapas do Processo:
 
 1. **Leitura de Dados Brutos**  
-   Importa os dados processados da IA de Extração (formato JSON ou CSV).
+   Recebe os dados processados da IA de Extração.
 
 2. **Criação das Planilhas**  
-   Organiza os dados em planilhas Excel com abas específicas:
-   - Produção Mensal
-   - Vendas por Segmento
-   - Comparativo Anual
-   - Notícias do Setor (resumos)
+   Organiza os dados em planilhas Excel de acordo com a ordem de dados extraídas.
 
 3. **Formatação Automática**  
-   - Títulos e cabeçalhos estilizados
-   - Cores e fontes corporativas (azul e verde)
-   - Congelamento de painéis e filtros aplicados
+   - Títulos e cabeçalhos estilizados;
+   - Fórmulas práticas.
 
 4. **Validações**  
-   - Verificações básicas de consistência (ex: campos vazios, tipos de dado)
-   - Mensagens de erro visuais em casos de inconsistência
+   - Verificações básicas de consistência (ex: campos vazios, tipos de dado).
 
 ## Tecnologias Empregadas
 
@@ -43,21 +37,19 @@ A automatização do Excel se dá por meio de scripts que manipulam os dados ext
 |------------------|------------------------------------------------------|
 | Python (OpenPyXL) | Criação e formatação de planilhas Excel              |
 | Pandas           | Manipulação de dados e estruturação de tabelas       |
-| NumPy            | Cálculos agregados e comparativos                    |
-| Templates Excel  | Modelos padrão corporativos utilizados como base     |
+| Templates Excel  | Modelo padrão utilizado como base     |
 
 ## Benefícios para o Negócio
 
-- **Agilidade**: Planilhas prontas em minutos, substituindo dias de trabalho manual.
+- **Agilidade**: Planilhas prontas em minutos, substituindo horas de trabalho manual.
 - **Precisão**: Redução de erros em fórmulas, cálculos e formatação.
 - **Integração**: Formato compatível com ferramentas de BI, PowerPoint e compartilhamento.
 - **Padronização**: Garantia de conformidade visual e estrutural com relatórios anteriores.
 
 ## Próximos Passos Técnicos
 
-- Inserção de gráficos automáticos nas abas Excel
-- Integração com banco de dados para histórico mensal
-- Exportação automatizada para Power BI
+- Inserção de gráficos automáticos nas abas Excel;
+- Integração com banco de dados para histórico mensal.
 
 ---
 

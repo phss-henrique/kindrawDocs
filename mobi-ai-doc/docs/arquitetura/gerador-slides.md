@@ -37,7 +37,7 @@ O gerador de slides executa um processo em etapas, baseado em dados previamente 
 |------------------|--------------------------------------------------|
 | Python (python-pptx) | Criação e manipulação de arquivos .pptx        |
 | Pandas            | Leitura e preparação dos dados                   |
-| Matplotlib        | Geração de gráficos incorporados                 |
+| FastAPI        | Envio da apresentação para o usuário através de uma URL|
 | Identidade Visual | Aplicação de estilos e template padrão da Bosch  |
 
 ## Benefícios para o Negócio
@@ -55,4 +55,4 @@ O gerador de slides executa um processo em etapas, baseado em dados previamente 
 
 ---
 
-> O gerador de slides transforma dados em narrativas visuais, facilitando a compreensão e a apresentação estratégica do Market Report para tomadores de decisão.
+> O gerador de slides transforma dados em narrativas visuais, facilitando a compreensão e a apresentação estratégica do Market Report para tomadas de decisão.
