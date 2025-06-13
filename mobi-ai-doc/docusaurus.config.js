@@ -115,8 +115,8 @@ const config = {
       // Color mode settings
       colorMode: {
         defaultMode: "light",
-        disableSwitch: false,
-        respectPrefersColorScheme: true,
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
 
       // Announcement banner for important notices
