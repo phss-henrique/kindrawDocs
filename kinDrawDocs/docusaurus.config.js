@@ -185,10 +185,6 @@ const config = {
               { label: "Introdução", to: "/docs/introducao" },
               { label: "Visão Geral", to: "/docs/visao-geral/sobre" },
               {
-                label: "Arquitetura Técnica",
-                to: "/docs/arquitetura/ia-extracao",
-              },
-              {
                 label: "Melhorias Futuras",
                 to: "/docs/melhorias-futuras",
               },

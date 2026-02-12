@@ -304,9 +304,6 @@ export default function Home() {
               Visão Geral do Projeto
               <ArrowRight size={16} />
             </a>
-            <a className="cta-button secondary" href="/docs/arquitetura/ia-extracao">
-              Ver Arquitetura Técnica
-            </a>
           </motion.div>
         </div>
       </section>
