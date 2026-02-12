@@ -1,56 +1,61 @@
 ---
 sidebar_position: 1
 title: Problema e Solução
-description: Diagnóstico do cenário anterior e apresentação da proposta resolutiva implementada pelo MOBI AI.
+description: Diagnóstico do cenário anterior e apresentação da solução implementada pelo KinDraw.
 ---
 
 # Problema e Solução
 
-> Esta seção apresenta a dor central identificada no processo atual do Market Report e como o MOBI AI foi projetado para resolvê-la de forma estratégica e tecnológica.
+> Esta seção descreve o principal desafio identificado no processo de análise de desenhos técnicos de embalagens e como o **KinDraw** foi desenvolvido para resolvê-lo de forma estratégica e tecnológica.
 
 ---
 
 ## Problema Identificado
 
-O processo de criação do Market Report (MKR) na Bosch era:
+O processo tradicional de análise e organização de desenhos técnicos apresentava as seguintes limitações:
 
-- Totalmente **manual** e **descentralizado**
-- Dependente de **curadoria individual de notícias**
-- Demandava **alguns dias de trabalho**
-- Sujeito a **inconsistência nos dados** e **formatação**
+- Processo **manual** e **descentralizado**
+- Dependência de **análise visual humana** para identificar similaridades
+- Alto **tempo de análise**, variando de horas a dias
+- Dificuldade na **padronização** e reaproveitamento de projetos
+- Maior risco de **subjetividade** e inconsistência nos resultados
 
 ---
 
-## Solução Proposta: MOBI AI
+## Solução Proposta: KinDraw
 
-A resposta ao problema foi a criação de uma plataforma inteligente e automatizada para a geração do MKR, com os seguintes pilares:
+Como resposta a esse cenário, foi desenvolvido o **KinDraw**, uma plataforma inteligente e automatizada para análise e agrupamento de desenhos técnicos, fundamentada em inteligência artificial e visão computacional.
 
-| Pilar            | Solução Aplicada                                               |
-|------------------|----------------------------------------------------------------|
-| **Automação**    | IAs especializadas para extração de dados e curadoria de notícias |
-| **Padronização** | Templates prontos para PowerPoint e Excel com identidade visual  |
-| **Agilidade**    | Geração de relatórios em minutos, e não dias                    |
-| **Distribuição** | Newsletter automática para stakeholders                         |
-| **Escalabilidade**| Arquitetura modular para evolução futura                       |
+A solução se baseia nos seguintes pilares:
+
+| Pilar              | Solução Aplicada                                                                 |
+|--------------------|----------------------------------------------------------------------------------|
+| **Automação**      | Processamento automático de desenhos técnicos por meio de IA                     |
+| **Precisão**       | Extração de características visuais com o modelo DINOv2                          |
+| **Agilidade**      | Análise e agrupamento de grandes volumes em menor tempo                           |
+| **Visualização**   | Dashboards interativos para interpretação dos resultados                          |
+| **Escalabilidade** | Arquitetura modular preparada para evolução futura                                |
 
 ---
 
 ## Inteligência Aplicada
 
-Ao unir **automação de processos**, **linguagem natural**, **sumarização inteligente** e **integração de dados**, o MOBI AI elimina gargalos e eleva a eficiência operacional da criação de relatórios.
+Ao integrar **visão computacional**, **pré-processamento de imagens** e **algoritmos de clustering**, o KinDraw elimina gargalos do processo manual e reduz a subjetividade na comparação de desenhos técnicos.
+
+A solução permite identificar padrões visuais relevantes, apoiar a padronização de projetos e contribuir diretamente para a **redução de custos e retrabalho**.
 
 ---
 
 ## Antes e Depois
 
-| Etapa                    | Processo Anterior         | Com MOBI AI                    |
-|--------------------------|---------------------------|--------------------------------|
-| Coleta de dados          | Manual                    | Automática via IA              |
-| Análise de notícias      | Leitura individual        | Resumo com GPT                 |
-| Construção dos slides    | Manual no PowerPoint      | Gerado automaticamente         |
-| Compartilhamento interno | Envio manual de arquivos  | Newsletter automática          |
-| Tempo médio              | 3 a 5 dias                | 15 a 30 minutos                |
+| Etapa                         | Processo Anterior                 | Com KinDraw                               |
+|-------------------------------|-----------------------------------|-------------------------------------------|
+| Análise de desenhos           | Manual e visual                   | Automatizada por IA                       |
+| Comparação entre projetos     | Subjetiva e demorada              | Baseada em métricas de similaridade       |
+| Organização dos arquivos      | Sem critério técnico definido     | Agrupamento por grau de semelhança        |
+| Visualização dos resultados   | Limitada                          | Dashboards e métricas visuais             |
+| Tempo médio de análise        | Horas ou dias                     | Minutos                                   |
 
 ---
 
-> O MOBI AI não apenas resolve o problema inicial, mas também propõe uma nova forma de pensar com a inteligência de mercado no setor automotivo.
+> O **KinDraw** não apenas resolve o problema inicial, como também introduz uma nova abordagem para análise, padronização e reaproveitamento de desenhos técnicos no contexto industrial.

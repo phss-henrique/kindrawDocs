@@ -10,16 +10,6 @@ const sidebars = {
     },
     {
       type: "doc",
-      id: "cronograma/cronograma", // docs/cronograma/cronograma.md
-      label: "Cronograma",
-    },
-    {
-      type: "doc",
-      id: "custos/custos", // docs/custos/custos.md
-      label: "Custos do Projeto",
-    },
-    {
-      type: "doc",
       id: "equipe/equipe", // docs/equipe/equipe.md
       label: "Equipe",
     },
@@ -37,18 +27,6 @@ const sidebars = {
       type: "doc",
       id: "problema-solucao/problema-solucao", // docs/problema-solucao/problema-solucao.md
       label: "Problemática e Solução",
-    },
-    {
-      type: "category",
-      label: "Arquitetura",
-      collapsed: false,
-      items: [
-        "arquitetura/ia-extracao",
-        "arquitetura/ia-noticias",
-        "arquitetura/gerador-slides",
-        "arquitetura/newsletter",
-        "arquitetura/automacao-excel",
-      ],
     },
     {
       type: "category",

@@ -145,7 +145,6 @@ const config = {
             position: "left",
             items: [
               { to: "/docs/visao-geral/sobre", label: "Visão Geral" },
-              { to: "/docs/arquitetura/ia-extracao", label: "Arquitetura" },
               {
                 to: "/docs/problema-solucao",
                 label: "Problemática e Solução",
@@ -161,8 +160,6 @@ const config = {
             position: "left",
             items: [
               { to: "/docs/equipe", label: "Equipe" },
-              { to: "/docs/cronograma", label: "Cronograma" },
-              { to: "/docs/custos", label: "Custos" },
             ],
           },
           {
