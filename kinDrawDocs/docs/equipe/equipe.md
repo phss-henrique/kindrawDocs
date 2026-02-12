@@ -41,7 +41,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
   </div>
   
   <div style={{textAlign: 'center', width: '200px', marginBottom: '20px'}}>
-    <img src={useBaseUrl('../../static/img/images/pedroSantos.JPG')} alt="Pedro Santos" 
+    <img src={useBaseUrl('/img/images/pedroSantos.JPG')} alt="Pedro Santos" 
       style={{width: '180px', height: '180px', borderRadius: '50%', objectFit: 'cover', border: '3px solid #007bc0'}} />
     <p style={{marginTop: '10px', marginBottom: '2px', fontWeight: 'bold'}}>Pedro Santos</p>
     <p style={{fontSize: '0.9rem', color: '#666', margin: 0}}>Fullstack</p>
