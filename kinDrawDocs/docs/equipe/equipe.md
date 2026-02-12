@@ -27,28 +27,28 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div style={{display: 'flex', flexWrap: 'wrap', justifyContent: 'space-around', gap: '20px', margin: '30px 0'}}>
   <div style={{textAlign: 'center', width: '200px', marginBottom: '20px'}}>
-    <img src={useBaseUrl('/img/images/joaoBorges.jpg')} alt="João Borges" 
+    <img src={useBaseUrl('/img/images/joaoBorges.JPG')} alt="João Borges" 
       style={{width: '180px', height: '180px', borderRadius: '50%', objectFit: 'cover', border: '3px solid #007bc0'}} />
     <p style={{marginTop: '10px', marginBottom: '2px', fontWeight: 'bold'}}>João Borges</p>
     <p style={{fontSize: '0.9rem', color: '#666', margin: 0}}>Prototipagem e Documentação</p>
   </div>
   
   <div style={{textAlign: 'center', width: '200px', marginBottom: '20px'}}>
-    <img src={useBaseUrl('/img/images/lucasMangolin.jpg')} alt="Lucas Mangolin" 
+    <img src={useBaseUrl('/img/images/lucasMangolin.JPG')} alt="Lucas Mangolin" 
       style={{width: '180px', height: '180px', borderRadius: '50%', objectFit: 'cover', border: '3px solid #007bc0'}} />
     <p style={{marginTop: '10px', marginBottom: '2px', fontWeight: 'bold'}}>Lucas Mangolin</p>
     <p style={{fontSize: '0.9rem', color: '#666', margin: 0}}>Fullstack</p>
   </div>
   
   <div style={{textAlign: 'center', width: '200px', marginBottom: '20px'}}>
-    <img src={useBaseUrl('../../static/img/images/pedroSantos.jpg')} alt="Pedro Santos" 
+    <img src={useBaseUrl('../../static/img/images/pedroSantos.JPG')} alt="Pedro Santos" 
       style={{width: '180px', height: '180px', borderRadius: '50%', objectFit: 'cover', border: '3px solid #007bc0'}} />
     <p style={{marginTop: '10px', marginBottom: '2px', fontWeight: 'bold'}}>Pedro Santos</p>
     <p style={{fontSize: '0.9rem', color: '#666', margin: 0}}>Fullstack</p>
   </div>
   
   <div style={{textAlign: 'center', width: '200px', marginBottom: '-5px'}}>
-    <img src={useBaseUrl('/img/images/victorRamos.jpg')} alt="Victor Ramos" 
+    <img src={useBaseUrl('/img/images/victorRamos.JPG')} alt="Victor Ramos" 
       style={{width: '180px', height: '180px', borderRadius: '50%', objectFit: 'cover', border: '3px solid #007bc0'}} />
     <p style={{marginTop: '10px', marginBottom: '2px', fontWeight: 'bold'}}>Victor Ramos</p>
     <p style={{fontSize: '0.9rem', color: '#666', margin: 0}}>Fullstack</p>
@@ -86,7 +86,7 @@ import { FaEnvelope, FaLinkedin, FaGithub, FaWhatsapp, FaPhone, FaUser } from 'r
         marginRight: '20px',
         flexShrink: 0
       }}>
-        <img src={useBaseUrl('/img/images/joaoBorges.jpg')} alt="João Borges" 
+        <img src={useBaseUrl('/img/images/joaoBorges.JPG')} alt="João Borges" 
           style={{width: '100%', height: '100%', objectFit: 'cover'}} />
       </div>
       <div>
@@ -141,7 +141,7 @@ import { FaEnvelope, FaLinkedin, FaGithub, FaWhatsapp, FaPhone, FaUser } from 'r
         marginRight: '20px',
         flexShrink: 0
       }}>
-        <img src={useBaseUrl('/img/images/lucasMangolin.jpg')} alt="Lucas Mangolin" 
+        <img src={useBaseUrl('/img/images/lucasMangolin.JPG')} alt="Lucas Mangolin" 
           style={{width: '100%', height: '100%', objectFit: 'cover'}} />
       </div>
       <div>
@@ -196,7 +196,7 @@ import { FaEnvelope, FaLinkedin, FaGithub, FaWhatsapp, FaPhone, FaUser } from 'r
         marginRight: '20px',
         flexShrink: 0
       }}>
-        <img src={useBaseUrl('/img/images/pedroSantos.jpg')} alt="Pedro Santos" 
+        <img src={useBaseUrl('/img/images/pedroSantos.JPG')} alt="Pedro Santos" 
           style={{width: '100%', height: '100%', objectFit: 'cover'}} />
       </div>
       <div>
@@ -251,7 +251,7 @@ import { FaEnvelope, FaLinkedin, FaGithub, FaWhatsapp, FaPhone, FaUser } from 'r
         marginRight: '20px',
         flexShrink: 0
       }}>
-        <img src={useBaseUrl('/img/images/victorRamos.jpg')} alt="Victor Ramos" 
+        <img src={useBaseUrl('/img/images/victorRamos.JPG')} alt="Victor Ramos" 
           style={{width: '100%', height: '100%', objectFit: 'cover'}} />
       </div>
       <div>
