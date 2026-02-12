@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "KINDRAW - Análise de desenhos técnicos",
   tagline: "Plataforma de IA para análise de desenhos técnicos de embalagens",
-  favicon: "img/favicon.ico",
+  favicon: "img/logoSemLetra.png",
 
   // Set the production url of your site here
   url: "https://kindraw.com.br",
