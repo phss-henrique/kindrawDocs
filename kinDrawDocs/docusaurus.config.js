@@ -46,7 +46,7 @@ const config = {
             copyright: `© ${new Date().getFullYear()} KINDRAW - Todos os direitos reservados`,
             xslt: true,
           },
-          editUrl: "https://github.com/leotaborda/kindraw/tree/main/",
+          editUrl: "https://github.com/phss-henrique/kindrawDocs/",
           // Enforce content best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -123,7 +123,7 @@ const config = {
       announcementBar: {
         id: "support_project",
         content:
-          '⭐️ Se você gosta do projeto KINDRAW, dê uma estrela no nosso <a target="_blank" rel="noopener noreferrer" href="https://github.com/leotaborda/mobi-ai">repositório GitHub</a>',
+          '⭐️ Se você gosta do projeto KINDRAW, dê uma estrela no nosso <a target="_blank" rel="noopener noreferrer" href="https://github.com/phss-henrique/kindrawDocs/">repositório GitHub</a>',
         backgroundColor: "#000",
         textColor: "#fff",
         isCloseable: true,
