@@ -96,12 +96,7 @@ export default function Home() {
     }
   ];
 
-  // Estatísticas de impacto
-  const stats = [
-    { value: '96%', label: 'Redução no tempo de produção' },
-    { value: '51%', label: 'Maior consistência de dados' },
-    { value: '25x', label: 'Aumento na produtividade' }
-  ];
+  
 
   // Benefícios do sistema
   const beneficios = [
@@ -168,25 +163,8 @@ export default function Home() {
         <div className="hero-overlay"></div>
       </section>
 
-      {/* Estatísticas de Impacto */}
-      <section className="stats-section">
-        <div className="stats-container">
-          {stats.map((stat, idx) => (
-            <motion.div
-              key={idx}
-              className="stat-item"
-              custom={idx}
-              initial="hidden"
-              whileInView="visible"
-              viewport={{ once: true, amount: 0.6 }}
-              variants={statsVariants}
-            >
-              <span className="stat-value">{stat.value}</span>
-              <span className="stat-label">{stat.label}</span>
-            </motion.div>
-          ))}
-        </div>
-      </section>
+    
+    
 
       {/* Módulos do Sistema com Cards Melhorados */}
       <section className="card-section">
